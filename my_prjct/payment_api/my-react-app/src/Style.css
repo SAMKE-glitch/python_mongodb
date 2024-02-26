@@ -1,0 +1,59 @@
+form {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+
+.btn {
+    display: block;
+}
+
+
+
+
+.form-group {
+    margin-top: 10px;
+
+}
+
+label {
+   display: block;
+   text-align: left;
+}
+
+.row {
+    display: block;
+}
+
+.container h1 {
+  font-size: 1.5rem;
+  padding: 20px;
+  font-weight: bolder;
+  text-align: left;
+  width: 60%;
+  margin: auto;
+}
+
+.first-field {
+  margin-top: 0;
+}
+
+.container h5{
+    color: red;
+    margin: 0;
+}
+
+.container h6 {
+    text-align: left;
+    opacity: 0.5;
+}
+
+.btn {
+    margin-top: 10px;
+}

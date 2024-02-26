@@ -1,0 +1,64 @@
+body {
+    background-color: #17181F;
+    color: #ddd;
+
+}
+main {
+    max-width: 600px;
+    margin: 5cap auto;
+}
+
+.transactions {
+    margin-top: 5%;
+
+}
+h5 {
+    font: 1em sans-serif;
+    margin: 0;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.square {
+    margin-top: 20px;
+    background-color:gray; 
+    border-radius: 35px; 
+    color:whitesmoke;
+
+}
+.spending {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+.payments {
+    margin-top: 5px;
+}
+.transaction {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+div.transaction div.name {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    font-size: 1.2rem;
+}
+div.transaction div.datetime {
+    font-size: .8rem;
+    color: #888;
+}
+
+div.right {
+    text-align: right;
+}
+div.amount.red {
+    color: red;
+
+}
+
+div.amount.green {
+    color: #1c1;
+}
