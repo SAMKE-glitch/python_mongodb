@@ -14,3 +14,9 @@ if match:
     print("My phone number is", match.group())
 else:
     print("match not found")
+
+
+pat = r"\W"
+txt = "Hello, World!"
+mtch = re.findall(pat, txt)
+print("match:", mtch)
