@@ -18,7 +18,7 @@ db = connection.training
 collection = db.mongodb_glossary
 
 # create documents
-
+# create documents
 doc1 = {"database":"a database contains collections"}
 doc2 = {"collection":"a collection stores the documents"}
 doc3 = {"document":"a document contains the data in the form or key value pairs."}
