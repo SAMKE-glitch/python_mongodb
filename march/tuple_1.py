@@ -6,3 +6,7 @@ del(B[1])
 print(B)
 C = len(("disco",10,1.2, "hard rock",10))
 print(C)
+
+V={'A','B'}
+V.add('C')
+print(V)
