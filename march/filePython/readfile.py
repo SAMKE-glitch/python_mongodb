@@ -12,6 +12,7 @@ with open(file, 'w') as writeFile:
 with open(file, 'r') as readFile:
     print(readFile.read())
 
+
 with open(file, 'a+') as testFile:
     testFile.write("testing a+ mode\n")
     print(testFile.read())
