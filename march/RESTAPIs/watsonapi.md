@@ -12,5 +12,3 @@ First we import SpeechToTextV1 from ibm_watson. For more information on the API,
 from ibm_watson import SpeechToTextV1 
 import json
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
-
-
